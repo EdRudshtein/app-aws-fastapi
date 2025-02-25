@@ -1,1 +1,1 @@
-# fastapi-aws
+# app-aws-fastapi
